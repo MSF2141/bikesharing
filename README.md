@@ -22,7 +22,7 @@ Using Python and Pandas in Jupyter Notebook v6.4.12, specifically with the use o
 
 2.) 
 
-!(https://github.com/MSF2141/bikesharing/blob/de00414825b74fc6389c34f3c4e2a1a7907342b1/Checkout%20times%20for%20users.png)
+![Checkout%20times%20for%20users](https://github.com/MSF2141/bikesharing/blob/de00414825b74fc6389c34f3c4e2a1a7907342b1/Checkout%20times%20for%20users.png)
 
 3.) Visualizations were combined into a story using a Tableau and published here:
 [NYCCitibikeanalysis?publish=yes](https://public.tableau.com/app/profile/msf2141/viz/NYCCitibikeanalysis_16753621665680/NYCCitibikeanalysis?publish=yes).
