@@ -22,7 +22,7 @@ Create a set of visualizations to show i) the length of time that bikes are chec
 
 How many trips are taken by the hour for each day of the week, for all riders and genders:
 ![Trips%20by%20weekday%20for%20each%20hour](https://github.com/MSF2141/bikesharing/blob/0c0167e9ba98bcb934c97000629b9bfbb24d7011/Trips%20by%20weekday%20for%20each%20hour.png)
-
+![Trips%20by%20gender%20for%20each%20hour%20of%20weekday](https://github.com/MSF2141/bikesharing/blob/eda1d0082519fc4d8b7d303a6ebd8f9cb786d566/Trips%20by%20gender%20for%20each%20hour%20of%20weekday.png)
 
 3.) Visualizations were combined into a story using a Tableau and published here:
 [NYCCitibikeanalysis?publish=yes](https://public.tableau.com/app/profile/msf2141/viz/NYCCitibikeanalysis_16753621665680/NYCCitibikeanalysis?publish=yes).
