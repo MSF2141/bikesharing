@@ -28,3 +28,9 @@ A breakdown of what days of the week a user might be more likely to check out a 
 
 3.) Visualizations were combined into a story using a Tableau and published here:
 [NYCCitibikeanalysis?publish=yes](https://public.tableau.com/app/profile/msf2141/viz/NYCCitibikeanalysis_16753621665680/NYCCitibikeanalysis?publish=yes).
+
+
+## Additional analysis:
+Top ending locations:
+![Top%20ending%20locations](https://github.com/MSF2141/bikesharing/blob/feb29a2b2a27ee0fcfa1c34b2b1227c2281e0dfb/Top%20ending%20locations.png)
+
