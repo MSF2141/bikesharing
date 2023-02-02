@@ -30,7 +30,9 @@ A breakdown of what days of the week a user might be more likely to check out a 
 [NYCCitibikeanalysis?publish=yes](https://public.tableau.com/app/profile/msf2141/viz/NYCCitibikeanalysis_16753621665680/NYCCitibikeanalysis?publish=yes).
 
 
-## Additional analysis:
+## Additional analysis
 Top ending locations:
 ![Top%20ending%20locations](https://github.com/MSF2141/bikesharing/blob/feb29a2b2a27ee0fcfa1c34b2b1227c2281e0dfb/Top%20ending%20locations.png)
 
+Gender breakdown:
+![Gender%20Breakdown](https://github.com/MSF2141/bikesharing/blob/b440581729d2f8ecee2a38500a794e15ca883e9e/Gender%20Breakdown.png)
